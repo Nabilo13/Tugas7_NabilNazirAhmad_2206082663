@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tugas7_nabilnazirahmad_2206082663/menu.dart';
+import 'package:tugas7_nabilnazirahmad_2206082663/screens/menu.dart';
 
 void main() {
   runApp(const MyApp());
